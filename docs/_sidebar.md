@@ -108,7 +108,8 @@
     - [Task07 Transformers解析序列标注任务](28_transformers_nlp/task07.md)
     - [Task08 Transformers解决抽取式问答任务](28_transformers_nlp/task08.md)
     - [Task09 Transformers解决机器翻译任务](28_transformers_nlp/task09.md)
-- 第 27 期吃瓜课程
+- 第 27 期吃瓜课程（机器学习）
+    - [书籍点击下载](27_pumpkin_learning/content.md)
     - [Task01 概览西瓜书+南瓜书第1、2章](27_pumpkin_learning/task01.md)
     - [Task02 详读西瓜书+南瓜书第3章](27_pumpkin_learning/task02.md)
     - [Task03 详读西瓜书+南瓜书第4章](27_pumpkin_learning/task03.md)

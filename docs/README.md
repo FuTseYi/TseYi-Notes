@@ -87,6 +87,8 @@ requirements.txt              Conda 依赖快照
 4. [第23-25期 集成学习](https://github.com/datawhalechina/team-learning-data-mining/tree/master/EnsembleLearning)
 5. [第26期 图神经网络](https://github.com/datawhalechina/team-learning-nlp/tree/master/GNN)
 6. [第27期 吃瓜教程](https://www.bilibili.com/video/BV1Mh411e7VU)
+    - [机器学习（西瓜书）- 可直接点击下载](27_pumpkin_learning/attachments/机器学习(周志华).pdf ':ignore')
+    - [南瓜书（Pumpkin Book）- 可直接点击下载](27_pumpkin_learning/attachments/pumpkin_book.pdf ':ignore')
 7. [第28期 Transformers NLP](https://github.com/datawhalechina/learn-nlp-with-transformers)
 8. [第29期 Matplotlib](https://github.com/datawhalechina/fantastic-matplotlib)
 9. [Matplotlib 50 题实战](https://www.heywhale.com/mw/notebook/5ec2336f693a730037a4415c)
