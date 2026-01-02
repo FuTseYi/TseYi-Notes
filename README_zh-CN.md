@@ -1,17 +1,17 @@
-# Deep-AI-Notes
+# ViteNotes
 
 <div align="center">
 
-<img src="docs/public/favicon/emoji-idea.png" alt="Deep-AI-Notes" width="25%" />
+<img src="docs/public/favicon/emoji-idea.png" alt="ViteNotes" width="25%" />
 
 **🚀 基于 VitePress 深度定制的 AI 学习笔记文档框架**
 
 [![VitePress](https://img.shields.io/badge/VitePress-1.6.4-brightgreen.svg)](https://vitepress.dev/)
 [![Vue](https://img.shields.io/badge/Vue-3.5.25-42b883.svg)](https://vuejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FuTseYi/Deep-AI-Notes/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FuTseYi/ViteNotes/pulls)
 
-[在线预览](https://edu.xieyi.org) | [快速开始](#-快速开始) | [功能特性](#-功能特性) | [部署指南](#-部署指南)
+[在线预览](https://notes.xieyi.org) | [快速开始](#-快速开始) | [功能特性](#-功能特性) | [部署指南](#-部署指南)
 
 简体中文 | [English](README.md)
 
@@ -21,7 +21,7 @@
 
 ## 📖 项目简介
 
-**Deep-AI-Notes** 是一个从零开始构建和深度优化的 VitePress 文档框架，专为展示 AI 学习笔记而设计。本项目不仅实现了完整的配置逻辑，还提供了健硕完美的 UI 渲染方案，并创建了 Vue 组件实现与 VuePress 相同的阅读进度圈等实用性功能。
+**ViteNotes** 是一个从零开始构建和深度优化的 VitePress 文档框架，专为展示 AI 学习笔记而设计。本项目不仅实现了完整的配置逻辑，还提供了健硕完美的 UI 渲染方案，并创建了 Vue 组件实现与 VuePress 相同的阅读进度圈等实用性功能。
 
 ### 🎯 适用场景
 
@@ -83,13 +83,13 @@
 
 ```bash
 # 使用 HTTPS
-git clone https://github.com/YOUR_USERNAME/Deep-AI-Notes.git
+git clone https://github.com/YOUR_USERNAME/ViteNotes.git
 
 # 或使用 SSH
-git clone git@github.com:YOUR_USERNAME/Deep-AI-Notes.git
+git clone git@github.com:YOUR_USERNAME/ViteNotes.git
 
 # 进入项目目录
-cd Deep-AI-Notes
+cd ViteNotes
 ```
 
 #### 3. 安装依赖
@@ -153,7 +153,7 @@ yarn preview
 ## 📁 项目结构
 
 ```
-Deep-AI-Notes/
+ViteNotes/
 ├── docs/                          # 文档根目录
 │   ├── .vitepress/                # VitePress 配置目录
 │   │   ├── config.ts              # 核心配置文件（★重点）
@@ -570,13 +570,13 @@ setup() {
 
 如果这个项目对你有帮助，欢迎点个 Star ⭐️ 支持一下！
 
-![Star History Chart](https://api.star-history.com/svg?repos=FuTseYi/Deep-AI-Notes&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=FuTseYi/ViteNotes&type=Date)
 
 ---
 
 <div align="center">
 
-**[⬆ 回到顶部](#deep-ai-notes)**
+**[⬆ 回到顶部](#vitenotes)**
 
 Made with ❤️ by [謝懿Shine](https://github.com/FuTseYi)
 

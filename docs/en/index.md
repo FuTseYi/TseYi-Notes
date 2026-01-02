@@ -1,13 +1,13 @@
 ---
 layout: home
 hero:
-  name: "Deep-AI-Notes"
+  name: "ViteNotes"
   text: "謝懿Shine'AI知识库"
   tagline: "Record end-to-end learning journeys across data science, machine learning and AI."
   
   image:
     src: /favicon/emoji-idea.png
-    alt: Deep-AI-Notes
+    alt: ViteNotes
   
   actions:
     - theme: brand
@@ -36,7 +36,7 @@ features:
     </div>
 <br>
     <div class="audience-title">Welcome to 欢迎 
-    <a href="https://github.com/FuTseYi/Deep-AI-Notes/fork" target="_blank">fork✨️</a> 
+    <a href="https://github.com/FuTseYi/ViteNotes/fork" target="_blank">fork✨️</a> 
     and Use 使用</div>
     <div class="info-card-desc">
       All documentation code is open source and shared. Welcome to optimize together and build a better documentation sharing and display framework! 此文档代码均开源共享,欢迎共同优化,一起打造更好的文档分享展示框架!
@@ -46,7 +46,7 @@ features:
 
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=FuTseYi/Deep-AI-Notes&type=Date" alt="Star History Chart" width="70%" />
+  <img src="https://api.star-history.com/svg?repos=FuTseYi/ViteNotes&type=Date" alt="Star History Chart" width="70%" />
 </div>
 
 ## Who is Learning AI? 谁在学AI?

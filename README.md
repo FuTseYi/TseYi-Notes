@@ -1,17 +1,17 @@
-# Deep-AI-Notes
+# ViteNotes
 
 <div align="center">
 
-<img src="docs/public/favicon/emoji-idea.png" alt="Deep-AI-Notes" width="25%" />
+<img src="docs/public/favicon/emoji-idea.png" alt="ViteNotes" width="25%" />
 
 **🚀 Deeply Customized AI Learning Notes Documentation Framework Based on VitePress**
 
 [![VitePress](https://img.shields.io/badge/VitePress-1.6.4-brightgreen.svg)](https://vitepress.dev/)
 [![Vue](https://img.shields.io/badge/Vue-3.5.25-42b883.svg)](https://vuejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FuTseYi/Deep-AI-Notes/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FuTseYi/ViteNotes/pulls)
 
-[Live Demo](https://edu.xieyi.org) | [Quick Start](#-quick-start) | [Features](#-features) | [Deployment](#-deployment-guide)
+[Live Demo](https://notes.xieyi.org) | [Quick Start](#-quick-start) | [Features](#-features) | [Deployment](#-deployment-guide)
 
 English | [简体中文](README_zh-CN.md)
 
@@ -21,7 +21,7 @@ English | [简体中文](README_zh-CN.md)
 
 ## 📖 Introduction
 
-**Deep-AI-Notes** is a VitePress documentation framework built and deeply optimized from scratch, specifically designed for showcasing AI learning notes. This project not only implements complete configuration logic but also provides a robust and perfect UI rendering solution, with custom Vue components that achieve practical features like reading progress circles similar to VuePress.
+**ViteNotes** is a VitePress documentation framework built and deeply optimized from scratch, specifically designed for showcasing AI learning notes. This project not only implements complete configuration logic but also provides a robust and perfect UI rendering solution, with custom Vue components that achieve practical features like reading progress circles similar to VuePress.
 
 ### 🎯 Use Cases
 
@@ -83,13 +83,13 @@ Click the **Fork** button in the top right corner to fork the project to your Gi
 
 ```bash
 # Using HTTPS
-git clone https://github.com/YOUR_USERNAME/Deep-AI-Notes.git
+git clone https://github.com/YOUR_USERNAME/ViteNotes.git
 
 # Or using SSH
-git clone git@github.com:YOUR_USERNAME/Deep-AI-Notes.git
+git clone git@github.com:YOUR_USERNAME/ViteNotes.git
 
 # Enter project directory
-cd Deep-AI-Notes
+cd ViteNotes
 ```
 
 #### 3. Install Dependencies
@@ -153,7 +153,7 @@ yarn preview
 ## 📁 Project Structure
 
 ```
-Deep-AI-Notes/
+ViteNotes/
 ├── docs/                          # Documentation root directory
 │   ├── .vitepress/                # VitePress configuration directory
 │   │   ├── config.ts              # Core configuration file (★ Important)
@@ -570,13 +570,13 @@ Special thanks to [Datawhale](https://www.datawhale.cn/) open-source learning pl
 
 If this project helps you, please give it a Star ⭐️!
 
-![Star History Chart](https://api.star-history.com/svg?repos=FuTseYi/Deep-AI-Notes&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=FuTseYi/ViteNotes&type=Date)
 
 ---
 
 <div align="center">
 
-**[⬆ Back to Top](#deep-ai-notes)**
+**[⬆ Back to Top](#vitenotes)**
 
 Made with ❤️ by [謝懿Shine](https://github.com/FuTseYi)
 

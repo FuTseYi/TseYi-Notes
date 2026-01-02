@@ -2,7 +2,7 @@
 lastUpdated: false
 ---
 
-# Deep-AI-Notes ｜ AI 知识库✒️
+# ViteNotes ｜ AI 知识库✒️
 
 > Record end-to-end learning journeys across data science, machine learning and AI.
 > 系统整理数据科学、机器学习与人工智能的学习路径、课堂笔记与实战练习。

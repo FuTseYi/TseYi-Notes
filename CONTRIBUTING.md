@@ -1,6 +1,6 @@
-# Deep-AI-Notes 贡献指南
+# ViteNotes 贡献指南
 
-感谢你对 Deep-AI-Notes 项目的关注！我们欢迎所有形式的贡献。
+感谢你对 ViteNotes 项目的关注！我们欢迎所有形式的贡献。
 
 ## 🤝 如何贡献
 
@@ -8,7 +8,7 @@
 
 如果你发现了 Bug，请：
 
-1. 检查 [Issues](https://github.com/FuTseYi/Deep-AI-Notes/issues) 中是否已有相关报告
+1. 检查 [Issues](https://github.com/FuTseYi/ViteNotes/issues) 中是否已有相关报告
 2. 如果没有，创建新的 Issue，并提供：
    - Bug 的详细描述
    - 复现步骤
@@ -20,7 +20,7 @@
 
 如果你有新功能建议：
 
-1. 先在 [Issues](https://github.com/FuTseYi/Deep-AI-Notes/issues) 中讨论
+1. 先在 [Issues](https://github.com/FuTseYi/ViteNotes/issues) 中讨论
 2. 说明功能的用途和价值
 3. 如果可能，提供实现思路
 
@@ -30,8 +30,8 @@
 
 2. **克隆到本地**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Deep-AI-Notes.git
-   cd Deep-AI-Notes
+   git clone https://github.com/YOUR_USERNAME/ViteNotes.git
+   cd ViteNotes
    ```
 
 3. **创建特性分支**
@@ -123,7 +123,7 @@ docs: update deployment guide
 
 ## 💬 交流
 
-- **Issues**：[GitHub Issues](https://github.com/FuTseYi/Deep-AI-Notes/issues)
+- **Issues**：[GitHub Issues](https://github.com/FuTseYi/ViteNotes/issues)
 - **Email**：tseyi.wk@icloud.com
 
 ## 📄 许可证

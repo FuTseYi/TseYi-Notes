@@ -31,7 +31,7 @@ export default {
           h(
             'a',
             {
-              href: 'https://github.com/FuTseYi/Deep-AI-Notes/issues',
+              href: 'https://github.com/FuTseYi/ViteNotes/issues',
               target: '_blank',
               rel: 'noopener noreferrer'
             },
@@ -42,7 +42,7 @@ export default {
             h('span', { class: 'github-star-wrap' }, [
               h('iframe', {
                 class: 'github-star-btn',
-                src: 'https://ghbtns.com/github-btn.html?user=FuTseYi&repo=Deep-AI-Notes&type=star&count=true&size=large',
+                src: 'https://ghbtns.com/github-btn.html?user=FuTseYi&repo=ViteNotes&type=star&count=true&size=large',
                 title: 'GitHub',
                 height: 30,
                 width: 120,

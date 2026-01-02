@@ -8,12 +8,12 @@ import { join } from 'path'
 // ========== 一、站点配置（统一管理 SEO 和资源配置）==========
 const SITE_CONFIG = {
   // 站点标题配置
-  title: "Deep-AI-Notes-謝懿Shine'AI知识库",  // 浏览器标签页标题、SEO 标题
-  siteTitle: "Deep-AI-Notes",  // 左上角导航栏标题（非SEO）
+  title: "ViteNotes-謝懿Shine'AI知识库",  // 浏览器标签页标题、SEO 标题
+  siteTitle: "ViteNotes",  // 左上角导航栏标题（非SEO）
   description: "系统整理数据科学、机器学习与人工智能的学习路径、课堂笔记与实战练习。Record end-to-end learning journeys across data science, machine learning and AI.",
   
   // SEO 配置
-  url: 'https://edu.xieyi.org',  // 网站域名，示例: 'https://yourdomain.com'（留空则不生成 sitemap）
+  url: 'https://notes.xieyi.org',  // 网站域名，示例: 'https://yourdomain.com'（留空则不生成 sitemap）
   keywords: 'AI,机器学习,深度学习,数据科学,pandas,GNN,pytorch,学习笔记,vitepress',
   author: '謝懿Shine',
   
@@ -101,7 +101,7 @@ export default withMermaid(defineConfig({
       provider: 'local'
     },
     socialLinks: [//外部链接图标配置    
-      { icon: 'github', link: 'https://github.com/FuTseYi/Deep-AI-Notes' },
+      { icon: 'github', link: 'https://github.com/FuTseYi/ViteNotes' },
       { 
         icon: {
           svg: '<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><!-- Icon from Material Symbols by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="M19 22q-1.65 0-2.825-1.175T15 18v-4.5q0-1.05.725-1.775T17.5 11t1.775.725T20 13.5V18h-2v-4.5q0-.2-.15-.35T17.5 13t-.35.15t-.15.35V18q0 .825.588 1.413T19 20t1.413-.587T21 18v-4h2v4q0 1.65-1.175 2.825T19 22M3 18q-.825 0-1.412-.587T1 16V4q0-.825.588-1.412T3 2h16q.825 0 1.413.588T21 4v6h-3.5q-1.45 0-2.475 1.025T14 13.5V18zm8-7l8-5V4l-8 5l-8-5v2z"/></svg>'
